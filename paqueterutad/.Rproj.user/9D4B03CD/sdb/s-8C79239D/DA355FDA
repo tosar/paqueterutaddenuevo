@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{resta.dos.números}\n\\alias{resta.dos.números}\n\\title{Resta Dos Numeros}\n\n\\description{ funcion que resta el valor de dos numeros dados}\n\n\\usage{\nresta.dos.números(x, y)\n}\n\n\\arguments{\n  \\item{x}{\nPrimer numero del que se restara el segundo\n}\n  \\item{y}{\nNumero que se resta al primero\n}\n}\n\n\\value{\nDevuelve la diferencia de los dos numeros\n}\n\n\\author{\nMaria Tosar\n}\n\n\n\n\\examples{\nresta.dos.numeros(3,1)\nresta.dos.numeros(1,4)\n## The function is currently defined as\nfunction (x, y) \n{\n    (x - y)\n  }\n}\n",
+    "created" : 1451138439358.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "139010976",
+    "id" : "DA355FDA",
+    "lastKnownWriteTime" : 1451137906,
+    "path" : "~/Documents/DATASCIENCE/TURORIAL UTAD/Modulo6_Preparacion_Datos_R/Practicas_R_avanzadas/src/paqueterutad/man/resta.dos.numeros.Rd",
+    "project_path" : "man/resta.dos.numeros.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

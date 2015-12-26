@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{suma.dos.números}\n\\alias{suma.dos.números}\n\\title{Duma Dos Numeros}\n\n\\description{ funcion que suma el valor de dos numeros dados}\n\n\\usage{\nsuma.dos.números(x, y)\n}\n\n\\arguments{\n  \\item{x}{\nPrimer numero al que se le sumara el segundo\n}\n  \\item{y}{\nNumero que se suma al primero\n}\n}\n\n\\value{\nDevuelve la suma de los dos numeros\n}\n\n\\author{\nMaria Tosar\n}\n\n\n\n\\examples{\nsuma.dos.numeros(3,1)\nsuma.dos.numeros(1,4)\n## The function is currently defined as\nfunction (x, y) \n{\n    (x + y)\n  }\n}\n",
+    "created" : 1451138442483.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1182780193",
+    "id" : "1AAB4DE",
+    "lastKnownWriteTime" : 1451138020,
+    "path" : "~/Documents/DATASCIENCE/TURORIAL UTAD/Modulo6_Preparacion_Datos_R/Practicas_R_avanzadas/src/paqueterutad/man/suma.dos.numeros.Rd",
+    "project_path" : "man/suma.dos.numeros.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

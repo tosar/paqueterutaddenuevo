@@ -1,0 +1,9 @@
+Package: paqueterutad
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-12-26
+Authors@R: Maria Tosar
+Description: Paquete que suma dos numeros, resta dos numeros y hace el factorial
+License: What license is it under?
+LazyData: TRUE

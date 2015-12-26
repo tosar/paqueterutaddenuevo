@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{factorial}\n\\alias{factorial}\n\\title{factorial de un numero}\n\n\\description{ funcion que hace e factorial del numero dado}\n\n\\usage{\nfactorial(x)\n}\n\n\\arguments{\n  \\item{x}{numero del que hara el factorial\n\n}\n\n}\n\n\\value{\nDevuelve el factorial\n\n\\author{\nMaria Tosar\n}\n\n\n\n\\examples{\nfactorial(4)\nfctorial(3)\n## The function is currently defined as\nfunction (x)\n{\n    prod(1:x)\n  }\n}\n",
+    "created" : 1451138429168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2098691792",
+    "id" : "1DB0E0E0",
+    "lastKnownWriteTime" : 1451138437,
+    "path" : "~/Documents/DATASCIENCE/TURORIAL UTAD/Modulo6_Preparacion_Datos_R/Practicas_R_avanzadas/src/paqueterutad/man/factorial.Rd",
+    "project_path" : "man/factorial.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}
